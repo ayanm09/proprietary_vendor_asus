@@ -77,7 +77,7 @@ android_app_import {
 	privileged: true,
 }
 
-android_app_import {
+/*android_app_import {
 	name: "com.qualcomm.location",
 	owner: "asus",
 	apk: "proprietary/system/priv-app/com.qualcomm.location/com.qualcomm.location.apk",
@@ -87,7 +87,7 @@ android_app_import {
 	},
 	privileged: true,
 }
-
+*/
 android_app_import {
 	name: "CneApp",
 	owner: "asus",
